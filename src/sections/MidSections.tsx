@@ -19,9 +19,9 @@ export function MidSections() {
   }, [activeVideo]);
 
   const videos = [
-    { poster: '/T1.jpg', src: '/T1.mov' },
-    { poster: '/T2.jpg', src: '/T2.mp4' },
-    { poster: '/T3.jpg', src: '/T3.mp4' }
+    { poster: 'T1.jpg', src: 'T1.mov' },
+    { poster: 'T2.jpg', src: 'T2.mp4' },
+    { poster: 'T3.jpg', src: 'T3.mp4' }
   ];
 
   return (
